@@ -1,9 +1,11 @@
 #!/usr/bin/python3.6
 
 # Author : Wael Bahloul
-# This is the mergesort algorithm, implemented as one class
-# the algorithm is tested from the manin function with different
-# test data (small set, large set, sorted , partially sorted ... etc)
+# This is the mergesort algorithm with some testing in the 
+# main function, the test is done for different types of test data 
+# (small set, large set, sorted , partially sorted ... etc)
+# Note: The random generator can be used to randomize really large set
+# to test the results and see the difference
 
 import random
 
